@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+#space {
+  margin-bottom: 20px;
+}
+
+
+#center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+html {
+  background-color: rgb(247, 126, 39);
+}
